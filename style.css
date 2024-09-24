@@ -1,0 +1,8 @@
+:root{
+    --secondary:#6c757d;
+}
+
+i:hover{
+    background-color: var(--secondary);
+    color: white;
+}
